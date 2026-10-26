@@ -1,0 +1,5 @@
+pypdf>=5.0
+sentence-transformers>=3.0
+groq>=0.30
+matplotlib>=3.8
+scikit-learn>=1.4

@@ -1,0 +1,8 @@
+.env
+.venv/
+plan.md
+__pycache__/
+.pytest_cache/
+qdrant_data/
+data/html/
+data/pdf/
